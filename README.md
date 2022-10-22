@@ -1,4 +1,26 @@
-### Hi there 👋 
+<div align="center">
+
+### Hi there 👋
+
+<br />
+
+#### < :books: Stacks >
+
+![My Skills](https://skills.thijs.gg/icons?i=c,cpp,cs,java&theme=light) &nbsp; ![My Skills](https://skills.thijs.gg/icons?i=unity&theme=dark)
+![My Skills](https://skills.thijs.gg/icons?i=androidstudio&theme=light)
+![My Skills](https://skills.thijs.gg/icons?i=git,github&theme=dark)
+
+<br />
+
+#### < :link: Links >
+
+<a href="https://sikpang.github.io/" target="_blank"><img src="https://img.shields.io/badge/PORTFOLIO-181717?style=flat&logo=github&logoColor=white"/></a>
+  &nbsp; 
+<a href="https://sikpang.github.io/" target="_blank"><img src="https://img.shields.io/badge/BLOG-000000?style=flat&logo=tistory&logoColor=white"/></a>
+
+</div>
+
+
 
 
 <!--
