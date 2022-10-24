@@ -16,7 +16,7 @@
 
 <a href="https://sikpang.github.io/" target="_blank"><img src="https://img.shields.io/badge/PORTFOLIO-181717?style=flat&logo=github&logoColor=white"/></a>
   &nbsp; 
-<a href="https://sikpang.github.io/" target="_blank"><img src="https://img.shields.io/badge/BLOG-000000?style=flat&logo=tistory&logoColor=white"/></a>
+<a href="https://sikpang.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/BLOG-000000?style=flat&logo=tistory&logoColor=white"/></a>
 
 </div>
 
